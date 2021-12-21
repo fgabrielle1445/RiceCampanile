@@ -27,7 +27,7 @@ function Join() {
                 </ul>
                 
                 <p>Sign up for our email list to get more information about how you can get involved, and you can contact us at jvp2@rice.edu with any questions.</p>
-            </div>
+                <a href='https://docs.google.com/forms/d/e/1FAIpQLSdsTNFc_4RUCdh7hL56_jEEhwLNgEeYyrsBsw38qcdNHcfcEw/viewform'><button>Sign up here!</button></a>            </div>
             </div>
             <Footer />
         </div>

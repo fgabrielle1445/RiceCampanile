@@ -1,11 +1,14 @@
 import Header from "../components/Header";
 import Footer from "../components/Footer";
+import './pages.css';
+
 
 function Join() {
 
     return(
         <div>
             <Header />
+            <div class="parallax">
             <div>
                 <h1>Join Us!</h1>
             </div>
@@ -24,6 +27,7 @@ function Join() {
                 </ul>
                 
                 <p>Sign up for our email list to get more information about how you can get involved, and you can contact us at jvp2@rice.edu with any questions.</p>
+            </div>
             </div>
             <Footer />
         </div>

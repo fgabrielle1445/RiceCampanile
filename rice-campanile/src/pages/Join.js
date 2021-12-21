@@ -1,7 +1,11 @@
+import Header from "../components/Header";
+import Footer from "../components/Footer";
+
 function Join() {
 
     return(
         <div>
+            <Header />
             <div>
                 <h1>Join Us!</h1>
             </div>
@@ -21,6 +25,7 @@ function Join() {
                 
                 <p>Sign up for our email list to get more information about how you can get involved, and you can contact us at jvp2@rice.edu with any questions.</p>
             </div>
+            <Footer />
         </div>
     );
 

@@ -7,14 +7,15 @@ function Header() {
     return(
         <div>
             <div class="topnav">
-            <NavLink to='/'>Rice Campanile</NavLink>
+            <span class="homeCamp"><NavLink to='/'>Rice Campanile</NavLink></span>
             <NavLink to='/about'>About</NavLink>
             <NavLink to='/team'>Meet the Team!</NavLink>
             <NavLink to='/events'>Events</NavLink>
             <NavLink to='/join-us'>Join Us</NavLink>
-            </div>
 
             <p>Rice University's undergraduate yearbook</p>
+
+            </div>
 
         </div>
     );

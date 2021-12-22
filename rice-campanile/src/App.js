@@ -43,7 +43,7 @@ function App() {
 
         <Route path="/events" element={<Events />} />
         <Route path="/events/books-and-boba" element={<BooksAndBoba />} />
-        <Route path="/events.picture-yourself" element={<PictureYourself />} />
+        <Route path="/events/picture-yourself" element={<PictureYourself />} />
 
         <Route path="/join-us" element={<Join />} />
 

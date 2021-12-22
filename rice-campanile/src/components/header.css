@@ -33,3 +33,12 @@
     background-color: purple;
     color: white;
   }
+
+  .topnav p {
+    color: gray;
+  }
+
+  .homeCamp {
+    position: absolute;
+    align-content: left;
+  }
